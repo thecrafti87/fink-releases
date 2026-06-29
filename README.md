@@ -80,3 +80,21 @@ vollautomatisch). Deine Einstellungen bleiben dabei erhalten.
 
 *Rückmeldungen und Fehlerberichte sind in der Beta sehr willkommen — danke fürs
 Ausprobieren! 🙌*
+
+
+---
+
+## 🔒 Datenschutz & Netzwerk
+
+Deine Stimme und deine Texte werden **lokal** verarbeitet — Spracherkennung und das
+lokale Modell brauchen **kein Internet**. Es gibt **keine Telemetrie, kein Tracking**.
+Ein eingebauter **Offline-Modus** (Einstellungen → Privatsphäre, oder Tray) schaltet
+jede Außenverbindung ab und protokolliert jeden Zugriff.
+
+➡️ **[Vollständige Datenschutz- & Netzwerk-Übersicht »](datenschutz.md)** — mit
+Firewall-Test zum Selbst-Nachprüfen und der kompletten Liste aller Verbindungen.
+
+## 🐦 Installation
+
+Schritt für Schritt (Windows; Ollama lokal **oder** Cloud-Schlüssel):
+➡️ **[Installationsanleitung »](installation.md)**
